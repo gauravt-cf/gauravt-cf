@@ -1,4 +1,4 @@
-# ![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) Hi there! I'm Gaurav Thakur
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Gaurav Thakur
 
 Welcome to my GitHub profile at [Channel-Fusion](https://github.com/ChannelFusion)!  
 I'm a passionate **Software Developer** focused on building reliable, scalable, and clean solutions using modern technologies.
@@ -8,18 +8,27 @@ I'm a passionate **Software Developer** focused on building reliable, scalable, 
 - 🧩 Believer in **clean code**, **modular design**, and **automation**
 - 🤝 Team player who enjoys sharing knowledge and learning from others
 - 🛠️ Always exploring ways to make development faster, safer, and more fun!
----
+
+--- 
 ## 🧰 Tech Toolbox
 
-| Category      | Technologies |
-|---------------|--------------|
-| **Languages** | `C#`, `JavaScript`, `TypeScript`, `SQL` |
-| **Frameworks** | `.NET`, `ASP.NET Core`, `Entity Framework` |
-| **DevOps** |  `GitHub Actions`, `Azure Pipelines`, `PowerShell` |
-| **Databases** | `SQL Server`, `MongoDB` |
-| **Tools** | `Visual Studio`, `VS Code`, `Postman`, `Git` |
+| 🧩 **Category**    | 🔧 **Technologies & Tools**                                                           |
+|--------------------|----------------------------------------------------------------------------------------|
+| **Languages**       | `C#`, `JavaScript`, `TypeScript`, `SQL`                                               |
+| **Frameworks**      | `.NET`, `ASP.NET Core`, `Entity Framework`, `React`                                   |
+| **DevOps / CI-CD**  | `GitHub Actions`, `Azure Pipelines`, `PowerShell`                           |
+| **Databases**       | `SQL Server`, `MongoDB`                                                               |
+| **Tools & Editors** | `Visual Studio`, `VS Code`, `Postman`, `Git`                               |
 
 ---
+
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,ts,react,azure,git,github&perline=8" />
+</p>
+
+---
+
 ## 🚀 What I'm Working On
 
 - 🔧 Improving developer workflows with **custom tools and automation scripts**  
@@ -32,6 +41,8 @@ I'm a passionate **Software Developer** focused on building reliable, scalable, 
 - I love solving complex architectural puzzles and finding simple solutions.
 - I'm a fan of dark themes, efficient shortcuts, and typing fast 💨
 - Outside work, I enjoy reading tech blogs and watching developer conferences on YouTube 🎥
+---
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=dark&border=true)](https://github.com/gauravt-cf/github-readme-quotes)
 
 ---
 ## 📈 GitHub Stats
