@@ -45,6 +45,9 @@ I'm a passionate **Software Developer** focused on building reliable, scalable, 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=dark&border=true)](https://github.com/gauravt-cf/github-readme-quotes)
 
 ---
+## Experience
+[![Experience component](https://readme-components.vercel.app/api?component=experience&company=channel fusion)](https://github.com/gauravt-cf/readme-components)
+---
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravt-cf&show_icons=true&theme=github_dark&hide_border=true)  
