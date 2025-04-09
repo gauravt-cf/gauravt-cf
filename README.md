@@ -46,7 +46,7 @@ I'm a passionate **Software Developer** focused on building reliable, scalable, 
 
 ---
 ## Experience
-[![Experience component](https://readme-components.vercel.app/api?component=experience&company=channel fusion)](https://github.com/gauravt-cf/readme-components)
+[![Experience component](https://readme-components.vercel.app/api?component=experience&company=channel%20fusion)](https://github.com/gauravt-cf/readme-components)
 ---
 ## 📈 GitHub Stats
 
