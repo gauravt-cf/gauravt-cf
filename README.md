@@ -67,7 +67,7 @@ I'm a passionate **Software Developer** focused on building reliable, scalable, 
 ---
 ## 📌 Featured Repositories
 
-[![Repo 1](https://img.shields.io/badge/FusionX-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravt-cf/fusionx)
+[![Repo 1](https://img.shields.io/badge/Github%20Profile-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravt-cf/gauravt-cf)
 
 ---
 ## 📬 Connect with Me
