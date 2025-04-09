@@ -42,6 +42,7 @@ I'm a passionate **Software Developer** focused on building reliable, scalable, 
 - I'm a fan of dark themes, efficient shortcuts, and typing fast 💨
 - Outside work, I enjoy reading tech blogs and watching developer conferences on YouTube 🎥
 ---
+## Daily Quotes 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=dark&border=true)](https://github.com/gauravt-cf/github-readme-quotes)
 
 ---
