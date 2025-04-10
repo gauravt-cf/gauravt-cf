@@ -81,6 +81,7 @@ I'm a passionate **Software Developer** focused on building reliable, scalable, 
 ## 📌 Featured Repositories
 
 [![Repo 1](https://img.shields.io/badge/Github%20Profile-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gauravt-cf)
+[![Repo 2](https://img.shields.io/badge/AutomateCore-000?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/gauravt-cf/AutomateCore)
 
 ---
 ## 📬 Connect with Me
