@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gauravt-cf/gauravt-cf/blob/main/gaurav-ghibli.jpg" width="260" style="border-radius: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" alt="Ghibli-style Gaurav"/>
+  <img src="https://github.com/gauravt-cf/gauravt-cf/blob/main/gaurav-ghibli.jpg" width="260" style="width: 200px; border-radius: 15px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2); margin-bottom: 20px;" alt="Gaurav Thakur"/>
 </p>
 
 <h1 align="center">
