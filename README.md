@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Gaurav Thakur
-<img src="https://github.com/gauravt-cf/gaurav-ghibli.jpg" width="200" align="right" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+<img src="https://github.com/gauravt-cf/gaurav-ghibli.jpg](https://github.com/gauravt-cf/gauravt-cf/blob/main/gaurav-ghibli.jpg" width="200" align="right" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
 
 
 Welcome to my GitHub profile at [Channel-Fusion](https://github.com/ChannelFusion)!  
