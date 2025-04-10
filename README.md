@@ -51,9 +51,13 @@ I'm a passionate **Software Developer** focused on building reliable, scalable, 
 ---
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravt-cf&show_icons=true&theme=github_dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravt-cf&layout=compact&theme=github_dark&hide_border=true)
-![Profile Views](https://komarev.com/ghpvc/?username=gauravt-cf&color=blueviolet&style=flat)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravt-cf&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravt-cf&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=gauravt-cf&color=blueviolet&style=flat" alt="Profile Views" />
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
