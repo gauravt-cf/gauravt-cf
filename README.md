@@ -39,7 +39,7 @@ I'm a passionate **Software Developer** focused on building reliable, scalable, 
 
 - 📦 Contributing to internal libraries at **Channel Fusion**  
 - 📘 Writing clean, well-documented, and testable code
-- 🏁 Supporting **VW CRC Enrollments** during the current rollout phase
+- 🏁 Supporting **VW CRC/On-demand Enrollments** during the current rollout phase
 - 🛠️ Designing and optimizing **scalable stored procedures** for performance and maintainability  
 
 ---
