@@ -21,7 +21,7 @@ I'm a passionate **Software Developer** focused on building reliable, scalable, 
 | 🧩 **Category**    | 🔧 **Technologies & Tools**                                                           |
 |--------------------|----------------------------------------------------------------------------------------|
 | **Languages**       | `C#`, `JavaScript`, `TypeScript`, `SQL`                                               |
-| **Frameworks**      | `.NET`, `ASP.NET Core`, `Entity Framework`, `React`                                   |
+| **Frameworks**      | `.NET`, `ASP.NET Core`, `Entity Framework`                                   |
 | **DevOps / CI-CD**  | `GitHub Actions`, `Azure Pipelines`, `PowerShell`                           |
 | **Databases**       | `SQL Server`, `MongoDB`                                                               |
 | **Tools & Editors** | `Visual Studio`, `VS Code`, `Postman`, `Git`                               |
