@@ -30,7 +30,7 @@ I'm a passionate **Software Developer** focused on building reliable, scalable, 
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,ts,react,azure,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,ts,azure,git,github&perline=8" />
 </p>
 
 ---
